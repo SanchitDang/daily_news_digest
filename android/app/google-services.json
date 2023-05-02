@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498948472567",
+    "project_id": "dailynewsdigest-d993d",
+    "storage_bucket": "dailynewsdigest-d993d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498948472567:android:5ed493078f98af092eddf2",
+        "android_client_info": {
+          "package_name": "com.sanapplications.daily_news_digest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498948472567-mshp808em38r52m4mcnnjg7k45ev77aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanapplications.daily_news_digest",
+            "certificate_hash": "c42fd7d9f372e06b6dee22a9f4311964239867e0"
+          }
+        },
+        {
+          "client_id": "498948472567-7ad5e2m9bdgoa2s5drld9g0q6l7qasv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsBb3dPfCwgCsQ9PGn4-BvibhRIUSWMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498948472567-7ad5e2m9bdgoa2s5drld9g0q6l7qasv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

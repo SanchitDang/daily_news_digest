@@ -60,15 +60,15 @@ Data from locally(shared pref) when there is No connection
 ## Videos
 Sign Up Process
 \
-<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/signUp.webm" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/signup.mp4" width="200" height="400" />
 \
 Login Process with Home Screen / News feed and searching
 \
-<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/login.webm" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/login.mp4" width="200" height="400" />
 \
 Home Screen / News feed with No connection
 \
-<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/noConnection.webm" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/noConnection.mp4" width="200" height="400" />
 \
 Login With Gmail
 \

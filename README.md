@@ -1,16 +1,50 @@
 # daily_news_digest
 
-A new Flutter project.
+## Features
+- Provides authentication through Firebase, allowing users to sign up and log in using their email and password.
+- Allows users to log in using their Google or Facebook accounts as well.
+- Features a logout button that enables users to log out and switch to a different account.
+- Utilizes an API to display the latest trending news on the homepage.
+- Includes a search bar to filter news articles by keywords or phrases.
+- Implements a local storage feature using shared preferences to save a copy of the latest news. This ensures that the app can still display news articles even when there is no internet connection available.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Libraries Used
+- country_code_picker
+Used to get different countries with their phone prefix code.
+- firebase_auth 
+Used to signup/login the user.
+- firebase_auth 
+Used to signup/login the user.
+- cloud_firestore 
+Used to save the data of the user after their sign up (name, email, phone).
+- flutter_facebook_auth
+Used to login the user using their FaceBook account.
+- http 
+Used to send and get http requests to get data from API.
+- shared_preferences 
+Used to save the news data locally. So that it can be fetched later if net connection is not available.
+- connectivity_plus 
+Used to check if the internet is available or not, So that if the net is not there then we can show data from our locally saved data.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+Sign Up
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/signup.png" width="200" height="400" />
+\
+Login
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/login.png" width="200" height="400" />
+\
+Home
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/home.png" width="200" height="400" />
+\
+Searching News Using search bar
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/search.png" width="200" height="400" />
+\
+Data from locally(shared pref) when there is No connection
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/noConnection.png" width="200" height="400" />

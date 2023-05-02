@@ -11,19 +11,27 @@
 
 ## Libraries Used
 - country_code_picker
+\
 Used to get different countries with their phone prefix code.
 - firebase_auth 
+\
 Used to signup/login the user.
 - firebase_auth 
+\
 Used to signup/login the user.
 - cloud_firestore 
+\
 Used to save the data of the user after their sign up (name, email, phone).
 - flutter_facebook_auth
+\
 Used to login the user using their FaceBook account.
 - http 
+\
 Used to send and get http requests to get data from API.
+\
 - shared_preferences 
 Used to save the news data locally. So that it can be fetched later if net connection is not available.
+\
 - connectivity_plus 
 Used to check if the internet is available or not, So that if the net is not there then we can show data from our locally saved data.
 
@@ -48,3 +56,27 @@ Searching News Using search bar
 Data from locally(shared pref) when there is No connection
 \
 <img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/noConnection.png" width="200" height="400" />
+
+## Videos
+Sign Up Process
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/signUp.webm" width="200" height="400" />
+\
+Login Process with Home Screen / News feed and searching
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/login.webm" width="200" height="400" />
+\
+Home Screen / News feed with No connection
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/noConnection.webm" width="200" height="400" />
+\
+Login With Gmail
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/gmailLogin.webm" width="200" height="400" />
+\
+Logout
+\
+<img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/logout.webm" width="200" height="400" />
+\
+
+

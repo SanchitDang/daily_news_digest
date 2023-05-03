@@ -58,6 +58,7 @@ Data from locally(shared pref) when there is No connection
 <img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/noConnection.png" width="200" height="400" />
 
 ## Videos
+*Videos cannot be displayed on GitHub due to their size limitations. To view the demo, please download the video by clicking on the link below or navigating to the "WorkingDemo" folder.*
 Sign Up Process
 \
 <img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/signup.mp4" width="200" height="400" />
@@ -77,6 +78,6 @@ Login With Gmail
 Logout
 \
 <img src="https://raw.githubusercontent.com/SanchitDang/daily_news_digest/master/WorkingDemo/logout.webm" width="200" height="400" />
-\
+
 
 
